@@ -1,0 +1,33 @@
+table tr td{
+	border: 1px solid black; /*borda da tabela*/
+}
+table{
+	width: 80%;/*largura da tabela*/
+	margin: auto;/*alinhamento centralizado da tabela*/
+}
+ 
+button{
+	color: #34e8eb;/*cor da fonte*/
+	background-color:#33166b ;/*cor de fundo do botao*/
+	font-size: 15px;/*tamanho da fonte*/
+	border-radius: 20px;/* aredonda a borda do botao*/
+	margin-top: 10px;/*margem do topo*/
+	margin-bottom: 10px;/*margem inferior*/
+	margin-left: 20px;/*borda a esquerda*/
+	margin-right: 50px;/*margem a direita*/
+
+	/*margin: 50px 50px 20px 50px; */
+
+	padding-top: 10px; 
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+p{ color: #33166b;
+	font-size:38px;
+	font-family: .bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  { text-shadow: 70px 4px 5px #eee; 
+}
